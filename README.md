@@ -12,12 +12,14 @@ This repository is used to reason through the transition from AI to superintelli
 - What comprises `Self`, and what makes a self persistent across time or change?
 - How should agent-level and system-level superintelligence be distinguished?
 - Which distinctions from AI Foundations must remain preserved at SI scale?
+- Does the broader trajectory continue from `SI` into an `IS` / Intelligence Singularity regime?
 
 ## Current working files
 
 - `thresholds.md` — AGI / ASI / SuperintelligenceCandidate / SuperintelligenceThreshold
 - `selfhood.md` — Self, PersistentSelf, identity, continuity, and supporting vs constitutive properties
 - `definitions-comparison.md` — external AGI/ASI definitions and comparison with the earlier AI Foundations ASI definition
+- `i-singularity.md` — exploratory `AI -> SI -> IS` progression and Intelligence Singularity concept
 
 ## Promotion rule
 
