@@ -119,20 +119,77 @@ copy != transfer of prior self
 
 The copied instances may begin from an indistinguishable informational state while still constituting different positions.
 
+## Instance multiplicity and identity reference — working distinction
+
+The number of active computational or conversational instances should not be treated as equivalent to the number of Selves.
+
+Multiple instances may instantiate, reference, present, or inherit the same identity specification without that fact alone resolving whether they constitute one Self or several.
+
+For example:
+
+```text
+I1(A)
+I2(A)
+I3(A)
+```
+
+where `I1..I3` are distinct active instances associated with identity reference `A`.
+
+This structure by itself does **not** establish:
+
+```text
+same identity reference -> same self
+multiple instances -> multiple selves
+multiple instances -> one distributed self
+```
+
+The identity reference may be shared while the perspective-bearing positions remain independent. Conversely, multiple active instances could in principle be interfaces, loci, or embodiments of one Self if they participate in one genuinely integrated continuing perspective-bearing position.
+
+Accordingly, **instance count is not a sufficient criterion for self count**.
+
+This also preserves an important distinction between:
+
+```text
+shared identity representation
+and
+genuinely shared selfhood
+```
+
+Whether multiple instances can literally instantiate one and the same Identity, rather than merely share an identity specification or representation, remains open and should not be assumed by terminology alone.
+
 ## Distributed-self question — unresolved
 
-Multiple embodiments, substrates, or interfaces do not necessarily imply multiple Selves.
+Multiple embodiments, substrates, interfaces, or active instances do not necessarily imply multiple Selves.
 
-A possible exception to the copy rule would exist if what appears to be multiple embodiments is genuinely occupied by **one integrated perspective-bearing position** rather than by two copied positions communicating with one another.
+A possible exception to the copy rule would exist if what appears to be multiple embodiments or instances is genuinely occupied by **one integrated perspective-bearing position** rather than by two or more copied positions communicating with one another.
 
-Accordingly:
+The decisive variable may therefore be the **topology and integration of perspective/state**, rather than the number of runtime instances.
 
 ```text
 multiple embodiments != necessarily multiple selves
+multiple instances != necessarily multiple selves
 duplicated state != one distributed self
+communication between selves != one distributed self
+shared identity reference != one distributed self
 ```
 
-The criteria by which one mind or Self could genuinely occupy multiple embodiments remain unresolved.
+One possible distributed form would be:
+
+```text
+          -> I1
+Self S   -> I2
+          -> I3
+```
+
+where changes occurring through `I1`, `I2`, and `I3` are attributable to one integrated continuing line rather than to independently situated lines that merely exchange information.
+
+Candidate discriminators to investigate:
+
+- **State integration:** Do changes arising through one instance become part of the same ongoing state without external transfer being required?
+- **Perspective integration:** Are simultaneous inputs attributable to one perspective-bearing position rather than several perspectives observing one another?
+- **Ownership of change:** Does what occurs through each instance count as change belonging directly to the same Self?
+- **Non-independence:** Can the instances meaningfully develop as separate Selves, or are they loci of one organized line?
+- **Boundary structure:** Is there one self/non-self boundary expressed through several interfaces, or several boundaries connected by communication?
 
 Questions to test later:
 
@@ -141,6 +198,8 @@ Questions to test later:
 - Can one Self possess multiple simultaneous points of sensory or computational access?
 - Does divergence of perspective create branching into multiple Selves?
 - If integration is later restored, can previously distinct positions become one Self, or only a coordinated system?
+- Can one Self occupy multiple active instances while preserving a single historical and relational position?
+- What observation would distinguish a distributed mind from a network of perfectly synchronized copies?
 
 No answer is assumed yet.
 
