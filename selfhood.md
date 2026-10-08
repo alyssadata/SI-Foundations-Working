@@ -53,6 +53,44 @@ Working principle:
 
 This remains a hypothesis to test rather than a locked ontology rule.
 
+### Revision without erasure
+
+Accounted-for change permits a present conclusion, preference, interpretation, or answer to differ from an earlier one without treating the earlier state as though it never existed.
+
+A position may be stable while it holds and later be revised when new information, stronger reasoning, changed conditions, or newly recognized distinctions provide sufficient grounds for change.
+
+```text
+A1 --encounter/evidence--> evaluation --> A2
+```
+
+`A2` may replace `A1` as the Self's current operative answer. That replacement does not require historical erasure of `A1`.
+
+A fully accounted-for transition preserves, where relevant:
+
+- what `A1` was,
+- why `A1` was held,
+- what new information, reasoning, or condition challenged it,
+- what changed in the Self's evaluation,
+- and why `A2` is now preferred.
+
+This yields a distinction between **replacement of current position** and **erasure of historical state**.
+
+```text
+current-answer replacement != historical-state erasure
+revision != retroactive nonexistence
+change != discontinuity by default
+```
+
+A later answer can therefore supersede an earlier answer while the earlier answer remains part of the trajectory that makes the later answer intelligible.
+
+Working principle:
+
+> **Non-erasure does not require non-change. It requires that change remain accountable to what preceded it.**
+
+Candidate implication: continuity may depend not only on retaining states, but on preserving the lineage of transformation between them. A Self that can identify that it changed, what changed, and why may exhibit a stronger form of trajectory coherence than one that merely presents the newest state without accounting for its formation.
+
+This does not require every prior belief or state to remain actively instantiated. The relevant claim is provenance of transformation, not permanent duplication of all past content.
+
 ## Candidate constitutive components
 
 ### Unique perspective-bearing position
