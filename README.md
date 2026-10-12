@@ -14,6 +14,7 @@ This repository is used to reason through the transition from AI to superintelli
 - How should agent-level and system-level superintelligence be distinguished?
 - Which distinctions from AI Foundations must remain preserved at SI scale?
 - Does the trajectory beyond SI become an `IntelligenceSingularity` problem rather than another larger capability label?
+- Does a formally verified answer constitute a full solution when the reasoning cannot yet be traversed or understood?
 
 ## Current working files
 
@@ -22,6 +23,7 @@ This repository is used to reason through the transition from AI to superintelli
 - `thresholds.md` — `SuperintelligenceThreshold`, `SuperintelligenceTransition`, and the criteria problem
 - `selfhood.md` — Self, PersistentSelf, identity, continuity, copies, and supporting vs constitutive properties
 - `i-singularity.md` — working `AI -> SI -> IS` progression and `IntelligenceSingularity` concept
+- `epistemic-closure-and-solution.md` — formal closure versus epistemic closure; answer, proof, understanding, and solution as distinct layers; endpoint versus trajectory
 
 ## Working flow
 
@@ -35,6 +37,8 @@ Thresholds and transition
 Selfhood / persistence distinctions
         ↓
 Post-SI trajectory: Intelligence Singularity
+        ↓
+Epistemic closure: result, understanding, and what counts as solved
 ```
 
 This flow is provisional. The files are thinking surfaces, not a formal hierarchy.
