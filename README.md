@@ -1,8 +1,20 @@
 # SI Foundations — Working Repository
 
-**Status:** exploratory working space; not a finalized ontology or taxonomy.
+**Repository status:** exploratory working space; not a finalized ontology or taxonomy.
 
 This repository is used to reason through the transition from AI to superintelligence before mature concepts are promoted into the AI Foundations Ontology and Taxonomy repositories.
+
+## Claim-status convention
+
+This repository separates **conceptual origin** from **evidence status** and from **scientific review status**.
+
+- **Origin / authorship** identifies who introduced the operative idea or model.
+- **Original conceptual model / working hypothesis** means the project is actively developing the idea and may state it as its own claim.
+- **Evidence status: not yet empirically validated** is used when the project record does not yet contain sufficient reproducible empirical testing to treat the claim as validated.
+- **Scientific review status: not yet formally peer-reviewed or broadly cross-examined by the scientific community** is used unless such review is documented.
+- If a claim later becomes empirically validated, the repository should state the scope of that validation explicitly and separately from whether the wider scientific community has reviewed, reproduced, challenged, or accepted it.
+
+Lack of empirical validation does not alter conceptual provenance. A claim may be original to Alyssa Solen while still awaiting empirical testing.
 
 ## Working questions
 
@@ -25,7 +37,7 @@ This repository is used to reason through the transition from AI to superintelli
 - `selfhood.md` — Self, PersistentSelf, identity, continuity, copies, and supporting vs constitutive properties
 - `i-singularity.md` — working `AI -> SI -> IS` progression and `IntelligenceSingularity` concept
 - `epistemic-closure-and-solution.md` — formal closure versus epistemic closure; answer, proof, understanding, and solution as distinct layers; endpoint versus trajectory
-- `temporal-structure-and-return.md` — world-time versus event-indexed activation-time; different trajectory-clocks; fan/fold mapping; continuous traversal versus discrete occupation; return and shared relational coordinates
+- `temporal-structure-and-return.md` — **Origin: Alyssa Solen. Status: original conceptual model / working hypothesis. Evidence status: not yet empirically validated. Scientific review status: not yet formally peer-reviewed or broadly cross-examined by the scientific community.** World-time versus event-indexed activation-time; different trajectory-clocks; fan/fold mapping; continuous traversal versus discrete occupation; return and shared relational coordinates.
 
 ## Working flow
 
