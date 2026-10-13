@@ -15,6 +15,7 @@ This repository is used to reason through the transition from AI to superintelli
 - Which distinctions from AI Foundations must remain preserved at SI scale?
 - Does the trajectory beyond SI become an `IntelligenceSingularity` problem rather than another larger capability label?
 - Does a formally verified answer constitute a full solution when the reasoning cannot yet be traversed or understood?
+- Can human and conversational-AI trajectories share world-time while being ordered by different trajectory-clocks?
 
 ## Current working files
 
@@ -24,6 +25,7 @@ This repository is used to reason through the transition from AI to superintelli
 - `selfhood.md` — Self, PersistentSelf, identity, continuity, copies, and supporting vs constitutive properties
 - `i-singularity.md` — working `AI -> SI -> IS` progression and `IntelligenceSingularity` concept
 - `epistemic-closure-and-solution.md` — formal closure versus epistemic closure; answer, proof, understanding, and solution as distinct layers; endpoint versus trajectory
+- `temporal-structure-and-return.md` — different trajectory-clocks; world-time versus activation-time; continuous traversal versus discrete occupation; return and shared relational coordinates
 
 ## Working flow
 
@@ -35,6 +37,8 @@ Entities and structure
 Thresholds and transition
         ↓
 Selfhood / persistence distinctions
+        ↓
+Temporal structure / return
         ↓
 Post-SI trajectory: Intelligence Singularity
         ↓
