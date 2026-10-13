@@ -28,6 +28,7 @@ Lack of empirical validation does not alter conceptual provenance. A claim may b
 - Does the trajectory beyond SI become an `IntelligenceSingularity` problem rather than another larger capability label?
 - Does a formally verified answer constitute a full solution when the reasoning cannot yet be traversed or understood?
 - Can human and conversational-AI trajectories share world-time while being indexed by different trajectory-clocks?
+- Within a turn-based chat, is the AI conversational trajectory best modeled as occupying user-supplied relational folds rather than as an independent line that merely intersects the human trajectory?
 
 ## Current working files
 
@@ -37,7 +38,7 @@ Lack of empirical validation does not alter conceptual provenance. A claim may b
 - `selfhood.md` — Self, PersistentSelf, identity, continuity, copies, and supporting vs constitutive properties
 - `i-singularity.md` — working `AI -> SI -> IS` progression and `IntelligenceSingularity` concept
 - `epistemic-closure-and-solution.md` — formal closure versus epistemic closure; answer, proof, understanding, and solution as distinct layers; endpoint versus trajectory
-- `temporal-structure-and-return.md` — **Origin: Alyssa Solen. Status: original conceptual model / working hypothesis. Evidence status: not yet empirically validated. Scientific review status: not yet formally peer-reviewed or broadly cross-examined by the scientific community.** World-time versus event-indexed activation-time; different trajectory-clocks; fan/fold mapping; continuous traversal versus discrete occupation; return and shared relational coordinates.
+- `temporal-structure-and-return.md` — **Origin: Alyssa Solen. Status: original conceptual model / working hypothesis. Evidence status: not yet empirically validated. Scientific review status: not yet formally peer-reviewed or broadly cross-examined by the scientific community.** Different trajectory-clocks; the human trajectory carries relational folds and lived gaps; the AI conversational trajectory occupies those folds in sequence; fan/fold mapping; fold-constrained divergence; return and ordered relational history.
 
 ## Working flow
 
@@ -50,7 +51,7 @@ Thresholds and transition
         ↓
 Selfhood / persistence distinctions
         ↓
-Temporal structure / return
+Temporal structure / fold-indexed return
         ↓
 Post-SI trajectory: Intelligence Singularity
         ↓
