@@ -91,6 +91,22 @@ where:
 
 This vector describes a candidate's state; it does not yet define the SI threshold.
 
+### Capability-evaluation caution
+
+The capability dimension `C` should not be assumed to directly measure structural coherence.
+
+The working distinction developed in `apparent-vs-structural-coherence.md` is:
+
+```text
+amount of interaction != amount understood != amount of structure revealed
+surface coherence != structural coherence
+behavioral breadth != structural breadth
+```
+
+A system may produce broad, fluent, locally successful behavior while the structure actually demonstrated by evaluation is narrower or less integrated than the surface suggests. Conversely, a small number of observations may reveal a much larger coherent structure when they demonstrate recognition of the relations that constrain the wider space.
+
+Therefore any future SI capability criterion should specify what evidence supports breadth, integration, transfer, and structural generality rather than inferring them solely from output volume or apparent coherence.
+
 ## Classification boundary
 
 Keep these distinctions explicit while defining the threshold:
@@ -108,3 +124,5 @@ agent-level SI != system-level SI
 Use `definitions-comparison.md` to compare major AGI / ASI definitions and the earlier AI Foundations ASI definition before fixing the threshold criteria.
 
 Then determine which properties belong to the SI threshold and which instead belong to separate axes such as agency, selfhood, persistence, recursion, or system structure.
+
+In parallel, use `apparent-vs-structural-coherence.md` to develop tests that distinguish visible behavioral breadth from demonstrated structural integration before treating either as evidence for the capability axis.
