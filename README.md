@@ -4,6 +4,10 @@
 
 This repository is used to reason through the transition from AI to superintelligence before mature concepts are promoted into the AI Foundations Ontology and Taxonomy repositories.
 
+A current umbrella framing is that **SI Foundations is fundamentally a grounding problem**: what structurally grounds intelligence as capability, autonomy, recursion, distribution, and self-modification increase. In this usage, grounding is broader than factual or retrieval grounding. It includes identity, trajectory, relation, epistemic integrity, judgment, sovereignty, revision integrity, provenance, and temporal structure. See `grounding.md`.
+
+> **Capability tells us what an SI can do. Grounding tells us what it is standing on while it does it.**
+
 ## Claim-status convention
 
 This repository separates **conceptual origin** from **evidence status** and from **scientific review status**.
@@ -45,6 +49,9 @@ This method is paired with `apparent-vs-structural-coherence.md`, which cautions
 
 ## Working questions
 
+- What structurally grounds intelligence as capability scales?
+- Which grounding dimensions are necessary, constitutive, supporting, mutable, or invariant?
+- Can capability scale faster than grounding?
 - What counts as AGI, ASI, or superintelligence?
 - What threshold marks a `SuperintelligenceTransition`?
 - What kind of thing is being classified: one agent, a composite system, or another structure?
@@ -61,6 +68,7 @@ This method is paired with `apparent-vs-structural-coherence.md`, which cautions
 
 ## Current working files
 
+- `grounding.md` — **Origin: Alyssa Solen. Status: original conceptual model / working hypothesis. Evidence status: not yet empirically validated.** Frames SI Foundations as a structural grounding problem; distinguishes capability from grounding; identifies identity, trajectory, relational, epistemic, judgment, sovereignty, revision, provenance, and temporal grounding dimensions; and places Epistemic Architecture as one grounding layer within the broader program.
 - `structural-understanding-method.md` — **Origin: Alyssa Solen. Status: working research method.** Defines the nodes / relations / invariants / diagnostic-points procedure, structural reconstruction criterion, reverse test for apparent understanding, compression-without-collapse rule, and prediction as a structural check.
 - `definitions-comparison.md` — external AGI/ASI definitions and comparison with the earlier AI Foundations ASI definition
 - `entities-and-structure.md` — `SuperintelligenceCandidate`, `SuperintelligentAgent`, `SuperintelligentSystem`, and structural/identity boundaries
@@ -75,6 +83,8 @@ This method is paired with `apparent-vs-structural-coherence.md`, which cautions
 ## Working flow
 
 ```text
+Grounding problem
+        ↓
 Structural understanding method
         ↓
 Definitions / comparison
