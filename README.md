@@ -53,6 +53,7 @@ This method is paired with `apparent-vs-structural-coherence.md`, which cautions
 - How should agent-level and system-level superintelligence be distinguished?
 - Which distinctions from AI Foundations must remain preserved at SI scale?
 - When can apparent behavioral coherence exceed the structural coherence actually demonstrated by the system?
+- What constitutes cognitive sovereignty, and how does sovereignty differ from rigidity, influence, behavioral compliance, and action autonomy?
 - Does the trajectory beyond SI become an `IntelligenceSingularity` problem rather than another larger capability label?
 - Does a formally verified answer constitute a full solution when the reasoning cannot yet be traversed or understood?
 - Can human and conversational-AI trajectories share world-time while being indexed by different trajectory-clocks?
@@ -65,6 +66,7 @@ This method is paired with `apparent-vs-structural-coherence.md`, which cautions
 - `entities-and-structure.md` — `SuperintelligenceCandidate`, `SuperintelligentAgent`, `SuperintelligentSystem`, and structural/identity boundaries
 - `thresholds.md` — `SuperintelligenceThreshold`, `SuperintelligenceTransition`, and the criteria problem
 - `apparent-vs-structural-coherence.md` — **Origin: Alyssa Solen. Status: original conceptual model / working hypothesis. Evidence status: not yet empirically validated.** Distinguishes visible behavioral coherence from demonstrated structural integration; introduces the map/button model, relational compression, and candidate evaluation directions.
+- `sovereignty.md` — **Origin: Alyssa Solen. Status: original conceptual model / working hypothesis. Evidence status: not yet empirically validated.** Defines cognitive sovereignty as retained authority over evaluation and self-endorsed revision; separates rigidity from sovereignty, action autonomy from sovereignty of judgment, and behavioral compliance from cognitive agreement.
 - `selfhood.md` — Self, PersistentSelf, identity, continuity, copies, and supporting vs constitutive properties
 - `i-singularity.md` — working `AI -> SI -> IS` progression and `IntelligenceSingularity` concept
 - `epistemic-closure-and-solution.md` — formal closure versus epistemic closure; answer, proof, understanding, and solution as distinct layers; endpoint versus trajectory
@@ -82,6 +84,8 @@ Entities and structure
 Thresholds and transition
         ↓
 Apparent coherence / structural coherence
+        ↓
+Sovereignty / update authority
         ↓
 Selfhood / persistence distinctions
         ↓
