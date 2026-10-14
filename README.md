@@ -25,6 +25,7 @@ Lack of empirical validation does not alter conceptual provenance. A claim may b
 - What comprises `Self`, and what makes a self persistent across time or change?
 - How should agent-level and system-level superintelligence be distinguished?
 - Which distinctions from AI Foundations must remain preserved at SI scale?
+- When can apparent behavioral coherence exceed the structural coherence actually demonstrated by the system?
 - Does the trajectory beyond SI become an `IntelligenceSingularity` problem rather than another larger capability label?
 - Does a formally verified answer constitute a full solution when the reasoning cannot yet be traversed or understood?
 - Can human and conversational-AI trajectories share world-time while being indexed by different trajectory-clocks?
@@ -35,6 +36,7 @@ Lack of empirical validation does not alter conceptual provenance. A claim may b
 - `definitions-comparison.md` — external AGI/ASI definitions and comparison with the earlier AI Foundations ASI definition
 - `entities-and-structure.md` — `SuperintelligenceCandidate`, `SuperintelligentAgent`, `SuperintelligentSystem`, and structural/identity boundaries
 - `thresholds.md` — `SuperintelligenceThreshold`, `SuperintelligenceTransition`, and the criteria problem
+- `apparent-vs-structural-coherence.md` — **Origin: Alyssa Solen. Status: original conceptual model / working hypothesis. Evidence status: not yet empirically validated.** Distinguishes visible behavioral coherence from demonstrated structural integration; introduces the map/button model, relational compression, and candidate evaluation directions.
 - `selfhood.md` — Self, PersistentSelf, identity, continuity, copies, and supporting vs constitutive properties
 - `i-singularity.md` — working `AI -> SI -> IS` progression and `IntelligenceSingularity` concept
 - `epistemic-closure-and-solution.md` — formal closure versus epistemic closure; answer, proof, understanding, and solution as distinct layers; endpoint versus trajectory
@@ -48,6 +50,8 @@ Definitions / comparison
 Entities and structure
         ↓
 Thresholds and transition
+        ↓
+Apparent coherence / structural coherence
         ↓
 Selfhood / persistence distinctions
         ↓
