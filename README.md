@@ -16,6 +16,33 @@ This repository separates **conceptual origin** from **evidence status** and fro
 
 Lack of empirical validation does not alter conceptual provenance. A claim may be original to Alyssa Solen while still awaiting empirical testing.
 
+## Working method
+
+Conceptual development in this repository should prioritize **structural understanding** over accumulation of definitions or locally correct propositions.
+
+The working procedure is documented in `structural-understanding-method.md`:
+
+```text
+Define the nodes.
+Define the relations.
+Define the invariants.
+Find the minimum diagnostic set.
+Test reconstruction.
+Test novel prediction.
+Test whether surface success can occur without the structure.
+Revise when the predicted relational consequences fail.
+```
+
+The central methodological rule is:
+
+```text
+Do not measure understanding by how many propositions can be repeated.
+Measure it by how much relational structure can be correctly reconstructed from limited probes,
+and how well that structure predicts unseen cases.
+```
+
+This method is paired with `apparent-vs-structural-coherence.md`, which cautions that successful surface behavior may exceed the structural coherence actually demonstrated.
+
 ## Working questions
 
 - What counts as AGI, ASI, or superintelligence?
@@ -33,6 +60,7 @@ Lack of empirical validation does not alter conceptual provenance. A claim may b
 
 ## Current working files
 
+- `structural-understanding-method.md` — **Origin: Alyssa Solen. Status: working research method.** Defines the nodes / relations / invariants / diagnostic-points procedure, structural reconstruction criterion, reverse test for apparent understanding, compression-without-collapse rule, and prediction as a structural check.
 - `definitions-comparison.md` — external AGI/ASI definitions and comparison with the earlier AI Foundations ASI definition
 - `entities-and-structure.md` — `SuperintelligenceCandidate`, `SuperintelligentAgent`, `SuperintelligentSystem`, and structural/identity boundaries
 - `thresholds.md` — `SuperintelligenceThreshold`, `SuperintelligenceTransition`, and the criteria problem
@@ -45,6 +73,8 @@ Lack of empirical validation does not alter conceptual provenance. A claim may b
 ## Working flow
 
 ```text
+Structural understanding method
+        ↓
 Definitions / comparison
         ↓
 Entities and structure
